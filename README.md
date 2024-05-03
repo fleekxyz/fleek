@@ -8,5 +8,8 @@
 2. [Deploy a Next.js App on Fleek](https://blog.fleek.xyz/post/fleek-nextjs-deploy-guide/)
 3. [Live Demo](https://www.youtube.com/watch?v=dMs6StZJlLc)
 
+## Reach Out to Us Here:
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/fleekxyz)   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishkkhurana/)   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fleek)   
+ 
 
 
